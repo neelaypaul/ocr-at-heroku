@@ -49,7 +49,7 @@ def upload_file():
 
 @app.route('/uploader', methods=['GET', 'POST'])
 def upload_file1():
-    if request.method == 'POST':
+    if request.method == 'GET' or request.method == 'POST':
         f = request.files['file']
         f.save(f.filename)
 

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f0866741-69de-410c-8a2a-5f1e75370956" name="Default Changelist" comment="removed runtime.txt">
-      <change beforePath="$PROJECT_DIR$/ocr.py" beforeDir="false" afterPath="$PROJECT_DIR$/ocr.py" afterDir="false" />
+    <list default="true" id="f0866741-69de-410c-8a2a-5f1e75370956" name="Default Changelist" comment="minimal change">
+      <change beforePath="$PROJECT_DIR$/Aptfile" beforeDir="false" afterPath="$PROJECT_DIR$/Aptfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626454703415</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="minimal change">
+      <created>1626460567584</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1626460567590</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -106,6 +113,7 @@
     <MESSAGE value="Update tessaract loc for heroku" />
     <MESSAGE value="add runtime.txt" />
     <MESSAGE value="removed runtime.txt" />
-    <option name="LAST_COMMIT_MESSAGE" value="removed runtime.txt" />
+    <MESSAGE value="minimal change" />
+    <option name="LAST_COMMIT_MESSAGE" value="minimal change" />
   </component>
 </project>

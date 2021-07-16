@@ -1,5 +1,5 @@
 pytesseract
-opencv-python
+opencv-python-headless==4.2.0.32
 pyrebase4
 Flask
 gunicorn

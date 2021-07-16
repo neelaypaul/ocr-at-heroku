@@ -21,7 +21,7 @@ firebase = pyrebase.initialize_app(firebaseconfig)
 storage= firebase.storage()
 
 #pytesseract.pytesseract.tesseract_cmd = r'C:\\Program Files\\Tesseract-OCR\\tesseract'
-#pytesseract.pytesseract.tesseract_cmd = '/app/.apt/usr/bin/tesseract'
+pytesseract.pytesseract.tesseract_cmd = '/app/.apt/usr/bin/tesseract'
 
 # create a named tuple which we can use to create locations of the
 # input document which we wish to OCR
